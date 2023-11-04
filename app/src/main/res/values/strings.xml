@@ -1,0 +1,12 @@
+<resources>
+    /////Juan Gallegos Suazo/////
+    <string name="app_name">AsyncTaskInicio</string>
+
+    <string name="et_usuario">ingrese un usuario</string>
+    <string name="et_password">ingrese una contraseña</string>
+    <string name="btn_inicio">iniciar sesion</string>
+    <string name="descripcion">descripcion</string>
+    
+
+    <string name="et_resultado">Bienvenido</string>
+</resources>
